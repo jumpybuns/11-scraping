@@ -6,6 +6,6 @@ CREATE TABLE products (
     price INTEGER,
     rating TEXT NOT NULL,
     image TEXT NOT NULL,
-    inStock BOOLEAN
+    in_stock BOOLEAN
     
 )
